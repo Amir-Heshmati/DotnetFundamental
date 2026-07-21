@@ -2,4 +2,12 @@
   <Folder Name="/Session2/">
     <Project Path="DotnetFundamental.GetUserInformationApp/DotnetFundamental.GetUserInformationApp.csproj" />
   </Folder>
+  <Folder Name="/Session2/Exercises/">
+    <Project Path="DotnetFundamental.AverageCalculator/DotnetFundamental.AverageCalculator.csproj" Id="23ee8c7f-3d71-4874-aa14-d160215c21c4" />
+    <Project Path="DotnetFundamental.DivisibilityChecker/DotnetFundamental.DivisibilityChecker.csproj" Id="89a74600-6103-487b-931b-e1a527bdb980" />
+    <Project Path="DotnetFundamental.EvenOddChecker/DotnetFundamental.EvenOddChecker.csproj" Id="25894464-615b-4685-a9df-cfd6d9e267dd" />
+    <Project Path="DotnetFundamental.MedianCalculator/DotnetFundamental.MedianCalculator.csproj" Id="0b5ae694-7348-4490-b9dc-8d49359a8500" />
+    <Project Path="DotnetFundamental.PrimeNumberChecker/DotnetFundamental.PrimeNumberChecker.csproj" Id="d62df901-d11b-452b-949f-96d09a08c4d4" />
+    <Project Path="DotnetFundamental.RandomDivisibleByFive/DotnetFundamental.RandomDivisibleByFive.csproj" Id="2215374b-f36b-41e3-b736-36ce75c244f0" />
+  </Folder>
 </Solution>
