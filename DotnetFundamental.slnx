@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Folder Name="/Session2/">
+    <Project Path="DotnetFundamental.GetUserInformationApp/DotnetFundamental.GetUserInformationApp.csproj" />
+  </Folder>
+</Solution>
